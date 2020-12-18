@@ -1,0 +1,4 @@
+C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/build/CMakeFiles/hello_qt.dir
+C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/build/CMakeFiles/edit_cache.dir
+C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/build/CMakeFiles/rebuild_cache.dir
+C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/build/CMakeFiles/hello_qt_autogen.dir

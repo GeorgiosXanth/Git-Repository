@@ -1,0 +1,10 @@
+^C:\USERS\GEORG\DESKTOP\GIT REPOSITORY\GIT-REPOSITORY\WORKSHEET 5\HELLO_QT_MSVC\BUILD\CMAKEFILES\3C42D1A9EC19BEF59EFD9663AAF5118D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_msvc/build" "-BC:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_msvc/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_msvc/build/hello_qt.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
