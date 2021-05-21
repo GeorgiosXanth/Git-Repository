@@ -1,4 +1,0 @@
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 4/calc_cmake/mingw_dynamic/CMakeFiles/calc.dir
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 4/calc_cmake/mingw_dynamic/CMakeFiles/maths.dir
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 4/calc_cmake/mingw_dynamic/CMakeFiles/edit_cache.dir
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 4/calc_cmake/mingw_dynamic/CMakeFiles/rebuild_cache.dir

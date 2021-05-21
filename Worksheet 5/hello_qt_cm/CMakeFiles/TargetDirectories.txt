@@ -1,3 +1,0 @@
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/CMakeFiles/hello_qt.dir
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/CMakeFiles/ALL_BUILD.dir
-C:/Users/georg/Desktop/Git Repository/Git-Repository/Worksheet 5/hello_qt_cm/CMakeFiles/ZERO_CHECK.dir
