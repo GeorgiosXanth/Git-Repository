@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\georg\OneDrive\Computer\University Folder\Y2 Computing project\Git Repository\Worksheet 7\calc_msvc_dynamic\adder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\georg\OneDrive\Computer\University Folder\Y2 Computing project\Git Repository\Worksheet 7\calc_msvc_dynamic\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2B0FFCED-3BD3-3331-AB65-7624CA62BF32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

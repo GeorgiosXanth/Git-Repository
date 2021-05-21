@@ -1,0 +1,10 @@
+^C:\USERS\GEORG\ONEDRIVE\COMPUTER\UNIVERSITY FOLDER\Y2 COMPUTING PROJECT\GIT REPOSITORY\WORKSHEET 7\CALC_MSVC_DYNAMIC\CMAKEFILES\CFF843293213164640C791F5118D4547\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/georg/OneDrive/Computer/University Folder/Y2 Computing project/Git Repository/Worksheet 7/calc_msvc_dynamic" "-BC:/Users/georg/OneDrive/Computer/University Folder/Y2 Computing project/Git Repository/Worksheet 7/calc_msvc_dynamic" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/georg/OneDrive/Computer/University Folder/Y2 Computing project/Git Repository/Worksheet 7/calc_msvc_dynamic/MathsLib.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Worksheet6\Exercise 3\Exercise 3\build\QtVTKExample_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Worksheet6\Exercise 3\Exercise 3\build\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Worksheet6\Exercise 3\Exercise 3\build\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Worksheet6\Exercise 3\Exercise 3\build\QtVTKExample_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Worksheet6\Exercise 3\Exercise 3\build\QtVTKExample_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Worksheet6\Exercise 3\Exercise 3\build\QtVTKExample_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Worksheet6\Exercise 3\Exercise 3\build\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Worksheet6\Exercise 3\Exercise 3\build\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Worksheet6\Exercise 3\Exercise 3\build\mainwindow.ui" />
+    <CustomBuild Include="C:\Worksheet6\Exercise 3\Exercise 3\build\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D5DF9654-9BF5-3D75-B318-6CCB8B468417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D2F236E4-DA02-348D-B829-09C8D5EDE547}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
