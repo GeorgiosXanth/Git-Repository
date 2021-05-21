@@ -8,6 +8,12 @@
 // arbitrary but must be unique within the project.
 #ifndef MATHSLIB_ADDER_H
 #define MATHSLIB_ADDER_H
+/** @file
+* This file contains the declarations of all exported functions.
+*/
+/** Brief description
+* This description will hopefully be picked up on by doxygen
+*/
 // We need to prefix our function names with an additional
 // keyword which is different depending on the operating
 // system we are using, and whether we are using or creating the
