@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\georg\Desktop\Git Repository\Git-Repository\Worksheet 4\calc_cmake\msvc_dynamic\CMakeFiles\f5a6da4634175f29fb90ce61dabb46a9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E75E066B-1CBA-3457-BEE2-6F2B723C141D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
